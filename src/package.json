@@ -1,0 +1,19 @@
+{
+  "name": "ts-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^2.4.2"
+  },
+  "devDependencies": {
+    "materialize-css": "^0.100.2",
+    "ts-loader": "^3.1.1",
+    "webpack": "^3.8.1"
+  }
+}
